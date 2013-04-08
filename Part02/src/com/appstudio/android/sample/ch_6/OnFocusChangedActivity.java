@@ -6,7 +6,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 public class OnFocusChangedActivity extends Activity {
-	public void onCreate(Bundle savedInstanceState){
+	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.onfocuschangedmain);
 	}
